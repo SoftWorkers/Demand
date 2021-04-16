@@ -25,14 +25,23 @@
 
 ### 2、 类图
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/%E7%B1%BB%E5%9B%BE.png" width=500>
 
 ### 3、 顺序图
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/%E9%A1%BA%E5%BA%8F%E5%9B%BE.png" width=500>
+
 ### 4、 活动图
+
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/%E6%B4%BB%E5%8A%A8.png" width=500>
 
 ### 5、 状态图
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/%E7%8A%B6%E6%80%81.png" width=500>
+
 ### 6、 泳道图
+
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/%E6%B3%B3%E9%81%93.png" width=500>
 
 ## 四、 用户场景
 用户:A
