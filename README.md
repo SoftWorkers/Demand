@@ -59,14 +59,25 @@
 ### 部分原型展示：
 ### 用户界面：
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/1_%E7%99%BB%E5%BD%95.png " width=500>
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/2_%E9%A6%96%E9%A1%B5.png " width=500>
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/2-1_%E6%89%93%E5%8D%A1.png " width=500>
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/2-4_%E6%89%93%E5%8D%A1%E6%8E%92%E8%A1%8C%E6%A6%9C.png  " width=500>
 
-
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/2-6_%E6%88%91%E7%9A%84%E8%B4%A6%E5%8F%B7.png " width=500>
 
 ### 管理员界面：
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/1_%E7%AE%A1%E7%90%86%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png" width=500>
+
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/3-1_%E5%AD%A6%E7%94%9F%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86_%E6%89%93%E5%8D%A1%E6%8F%90%E9%86%92.png " width=500>
+
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/3_%E5%AD%A6%E7%94%9F%E8%B4%A6%E6%88%B7%E7%AE%A1%E7%90%86.png " width=500>
+
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/4_%E5%AD%A6%E7%94%9F%E6%B6%88%E6%81%AF_%E5%B7%B2%E8%A7%A3%E5%86%B3.png " width=500>
 
 ## 六、功能描述
 #### 注册登录：
