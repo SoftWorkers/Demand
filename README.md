@@ -21,7 +21,10 @@
 ## 三、 业务描述
 ### 1、 用例图
 
+<img src="https://github.com/SoftWorkers/Demand/blob/photo/%E7%94%A8%E4%BE%8B%E5%9B%BE.png" width=500>
+
 ### 2、 类图
+
 
 ### 3、 顺序图
 
